@@ -1,0 +1,7 @@
+# by mondoshell
+mongo "mongodb+srv://learning-cluster.zsu5i.mongodb.net/learning-cluster" --username my-dbo
+p@ss1234
+
+# by application
+mongodb+srv://my-dbo:p@ss1234@learning-cluster.zsu5i.mongodb.net/learning-cluster?retryWrites=true&w=majority
+p@ss1234
